@@ -1,0 +1,13 @@
+airbnb:
+  outputs:
+    dev:
+      account: PGYQHQM-IO21374
+      database: AIRBNB
+      password: Rihanshipar@143p
+      role: ACCOUNTADMIN
+      schema: DEV
+      threads: 1
+      type: snowflake
+      user: admin
+      warehouse: COMPUTE_WH
+  target: dev
