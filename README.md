@@ -1,6 +1,2 @@
-This is a Student Repository for the Udemy's Complete dbt Bootcamp. You can:
+End to End dbt project while extracting data from s3 bucket to raw layer and then transform, perform scd2 type, increametal load in dev layer using dbt 
 
-1) Either start a codespace and start using dbt right away
-2) Or clone this repo with Visual Studio Code and follow the instructions to set up a local dbt environment.
-
-Have fun! :)  
